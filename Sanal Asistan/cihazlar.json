@@ -1,0 +1,49 @@
+{
+    "Televizyon": [
+        {
+            "ad": "Televizyon1",
+            "marka": "Samsung",
+            "durum": "Kapalı",
+            "parlaklik": 50,
+            "ses_duzeyi": 25,
+            "goruntu_modu": "standart",
+            "kanal_no": 74
+        }
+    ],
+    "Lamba": [
+        {
+            "ad": "Lamba1",
+            "marka": "lamba",
+            "durum": "Kapalı",
+            "parlaklik": 50,
+            "renk": "kırmızı"
+        }
+    ],
+    "Kapi": [
+        {
+            "ad": "Dış kapı",
+            "marka": "Kale",
+            "durum": "Kapalı",
+            "kilitli": true,
+            "kapi_durumu": false
+        }
+    ],
+    "Buzdolabi": [
+        {
+            "ad": "Buzdolabı1",
+            "marka": "Bosch",
+            "durum": "Açık",
+            "sicaklik": 8,
+            "buzluk_sicaklik": -20,
+            "mod": "normal"
+        },
+        {
+            "ad": "Buzdolabı2",
+            "marka": "Arçelik",
+            "durum": "Kapalı",
+            "sicaklik": 4,
+            "buzluk_sicaklik": -18,
+            "mod": "Normal"
+        }
+    ]
+}
