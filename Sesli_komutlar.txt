@@ -1,0 +1,17 @@
+Sesli komutlarla çalışmak
+
+Genel komut dili:
+	
+	(Cihazın Adı) - cihazını/cihazının - (özellik: parlaklık, ses düzeyi gibi) - değerini/seviyesini - (değer: ayarlamak istediğiniz değer) - yap/olarak değiştir
+
+Örnek işlemler:
+
+	*Lamba1 cihazını aç*
+	*Televizyon1 cihazının parlaklığını 75 olarak değiştir*
+	*Televizyon2 cihazının ses seviyesini 50 olarak değiştir*
+	*Dışkapı* cihazını kilitle*
+
+Dikkat etmeniz gerekenler:
+
+-Modüllerin sisteminizde yüklü olması
+-internet bağlantısının olması
